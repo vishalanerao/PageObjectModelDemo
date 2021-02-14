@@ -1,3 +1,8 @@
+/*
+* This method is used to launch the Chrome Browser
+*
+*/
+
 package browserlaunching;
 
 import org.openqa.selenium.WebDriver;
